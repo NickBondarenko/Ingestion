@@ -31,7 +31,7 @@
 
     <properties>
         <scala.version>2.11</scala.version>
-        <scala-compiler.version>2.11.7</scala-compiler.version>
+        <scala-compiler.version>2.13.3</scala-compiler.version>
         <stratio.common.utils.version>0.4.3</stratio.common.utils.version>
         <jar.export.mainclass>com.stratio.ingestion.provider.Main</jar.export.mainclass>
     </properties>
