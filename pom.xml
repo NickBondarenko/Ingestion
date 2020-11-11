@@ -67,7 +67,7 @@
         <kafka.version>0.8.2.1</kafka.version>
         <!-- Watch Stratio Decision -->
         <typesafe.config.version>1.2.1</typesafe.config.version>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <maxmind.version>0.3.3</maxmind.version>
         <jersey.core.version>1.18.3</jersey.core.version>
         <sonar.coverage.exclusions>examples/**</sonar.coverage.exclusions>
