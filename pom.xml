@@ -57,7 +57,7 @@
         <commons.lang3.version>3.3.2</commons.lang3.version>
         <!-- Watch Flume -->
         <hadoop.version>2.7.2</hadoop.version>
-        <commons.io.version>2.1</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <slf4j.version>1.7.7</slf4j.version>
         <kite.version>1.1.0</kite.version>
         <guava.version>17.0</guava.version>
